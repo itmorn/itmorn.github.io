@@ -1,12 +1,13 @@
-# Your Name
+# YiChen Zhao
 
-![Your Profile Image](path-to-your-profile-image)
+<img src="https://github.com/itmorn/itmorn.github.io/blob/main/profile.jpg" alt="Your Image" width="15%" />
+
 
 ## About Me
 
-Hi there! I'm **Your Name**, a passionate and dedicated Machine Learning Engineer with a profound interest in solving real-world problems through innovative algorithms. With expertise ranging from traditional machine learning to cutting-edge AI fields like deep learning, multimodal systems, and AIGC (AI Generated Content), I bring a holistic and in-depth understanding of the AI landscape to the table.
+Hi there! I'm **YiChen Zhao**, a passionate and dedicated Machine Learning Engineer with a profound interest in solving real-world problems through innovative algorithms. With expertise ranging from traditional machine learning to cutting-edge AI fields like deep learning, multimodal systems, and AIGC (AI Generated Content), I bring a holistic and in-depth understanding of the AI landscape to the table.
 
-Feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out to me via email at [24463047@qq.com](mailto:24463047@qq.com).
 
 ## Articles & Research
 
