@@ -1,6 +1,6 @@
 # YiChen Zhao
 
-<img src="https://github.com/itmorn/itmorn.github.io/blob/main/profile.jpg" alt="Your Image" width="15%" />
+<img src="https://raw.githubusercontent.com/itmorn/itmorn.github.io/main/profile.jpg" alt="Your Image" width="15%" />
 
 
 ## About Me
