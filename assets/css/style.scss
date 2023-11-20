@@ -2,4 +2,5 @@
 ---
 
 /* Your custom styles here */
+@import "{{ site.theme }}";
 h1 a[href="https://itmorn.github.io/"] { display: none; }
