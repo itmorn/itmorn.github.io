@@ -9,27 +9,27 @@ Hi there! I'm **YiChen Zhao**, a passionate and dedicated Machine Learning Engin
 
 Feel free to reach out to me via email at [24463047@qq.com](mailto:24463047@qq.com).
 
-## Articles & Research
+# Articles & Research
 
-### Traditional Machine Learning
+## Traditional Machine Learning
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
-### Deep Learning
+## Deep Learning
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
-### Multimodal Systems
+## Multimodal Systems
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
-### AIGC
+## AIGC
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
-## Open source projects
+# Open source projects
 
 Here are some of the projects I've worked on that I'm particularly proud of:
 
 - [robot-mouse-track](https://github.com/itmorn/robot-mouse-track) - an algorithm for mouse trajectory analysis to differentiate between human and robot.
 
-## Skills
+# Skills
 
 - Machine Learning
 - Deep Learning
@@ -37,16 +37,16 @@ Here are some of the projects I've worked on that I'm particularly proud of:
 - Python, PyTorch, TensorFlow
 - And more...
 
-## Education
+# Education
 
 - Master's Degree, [East China Normal University](https://www.ecnu.edu.cn/) - 2020
 - Bachelor's Degree, [Donghua University](https://www.dhu.edu.cn/) - 2017
 
-## Work Experience
+# Work Experience
 
 - Algorithm Engineer (Recommendation Systems, Computer Vision), Confidential - 2017 to Present
 
-## Find Me on the Web
+# Find Me on the Web
 
 - weixin: itmorn
 - [zhihu](https://www.zhihu.com/people/itmorn) - where I write articles occasionally.
