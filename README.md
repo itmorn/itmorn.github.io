@@ -52,6 +52,4 @@ Here are some of the projects I've worked on that I'm particularly proud of:
 - [zhihu](https://www.zhihu.com/people/itmorn) - where I write articles occasionally.
 - [cnblogs](https://www.cnblogs.com/itmorn/) - where I write articles occasionally.
 
----
-
 Looking forward to connecting with like-minded individuals and contributing to exciting projects in the AI space!
