@@ -18,7 +18,7 @@ Feel free to reach out to me via email at [24463047@qq.com](mailto:24463047@qq.c
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
 ### Frontiers of AI
-- [SAM](link-to-article-or-project) - Segment Anything. promptable segment. Meta AI 23.04.
+- [SAM](https://zhuanlan.zhihu.com/p/667801207) - Segment Anything. promptable segment. Meta AI 23.04.
   
 
 
@@ -48,6 +48,7 @@ Here are some of the projects I've worked on that I'm particularly proud of:
 ## Find Me on the Web
 
 - weixin: itmorn
+- [github](https://github.com/itmorn)
 - [zhihu](https://www.zhihu.com/people/itmorn) - where I write articles occasionally.
 - [cnblogs](https://www.cnblogs.com/itmorn/) - where I write articles occasionally.
 
