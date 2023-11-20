@@ -23,12 +23,11 @@ Feel free to reach out to me via email at [24463047@qq.com](mailto:24463047@qq.c
 ### AIGC
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
-## Projects
+## Open source projects
 
 Here are some of the projects I've worked on that I'm particularly proud of:
 
-- [Project Name](link-to-project) - A brief description of the project.
-- [Project Name](link-to-project) - A brief description of the project.
+- [robot-mouse-track](https://github.com/itmorn/robot-mouse-track) - an algorithm for mouse trajectory analysis to differentiate between human and robot.
 
 ## Skills
 
@@ -40,18 +39,18 @@ Here are some of the projects I've worked on that I'm particularly proud of:
 
 ## Education
 
-- [Your Degree](link-to-your-university-or-program), [University Name] - Graduation Year
+- Master's Degree, [East China Normal University](https://www.ecnu.edu.cn/) - 2020
+- Bachelor's Degree, [Donghua University](https://www.dhu.edu.cn/) - 2017
 
 ## Work Experience
 
-- [Job Title](link-to-company), [Company Name] - Dates of Employment
-- [Job Title](link-to-company), [Company Name] - Dates of Employment
+- Algorithm Engineer (Recommendation Systems, Computer Vision), Confidential - 2017 to Present
 
 ## Find Me on the Web
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Medium](your-medium-profile) - where I write articles occasionally.
+- weixin: itmorn
+- [zhihu](https://www.zhihu.com/people/itmorn) - where I write articles occasionally.
+- [cnblogs](https://www.cnblogs.com/itmorn/) - where I write articles occasionally.
 
 ---
 
