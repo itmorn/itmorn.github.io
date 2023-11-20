@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/itmorn/itmorn.github.io/main/profile.jpg" alt="Your Image" width="15%" />
 
 
-## About Me
+### About Me
 
 Hi there! I'm **YiChen Zhao**, a passionate and dedicated Machine Learning Engineer with a profound interest in solving real-world problems through innovative algorithms. With expertise ranging from traditional machine learning to cutting-edge AI fields like deep learning, multimodal systems, and AIGC (AI Generated Content), I bring a holistic and in-depth understanding of the AI landscape to the table.
 
