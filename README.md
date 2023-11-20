@@ -11,17 +11,16 @@ Feel free to reach out to me via email at [24463047@qq.com](mailto:24463047@qq.c
 
 ## Articles & Research
 
-### Traditional Machine Learning
+### Machine Learning Fundamentals
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
-### Deep Learning
+### Deep Learning Fundamentals
 - [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
-### Multimodal Systems
-- [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
+### Frontiers of AI
+- [SAM](link-to-article-or-project) - Segment Anything. promptable segment. Meta AI 23.04.
+  
 
-### AIGC
-- [Algorithm Name](link-to-article-or-project) - A brief description of the article/project.
 
 ## Open source projects
 
