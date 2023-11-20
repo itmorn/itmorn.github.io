@@ -3,4 +3,10 @@
 
 /* Your custom styles here */
 @import "{{ site.theme }}";
-h1 a[href="https://itmorn.github.io/"] { display: none; }
+h1 a[href="https://itmorn.github.io/"] {
+  visibility: hidden;
+  height: 0;
+  width: 0;
+  display: block; /* 将链接转换为块级元素，允许我们设置宽高 */
+  overflow: hidden; /* 确保即使内容超出也不会显示 */
+}
