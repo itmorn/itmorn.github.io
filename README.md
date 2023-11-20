@@ -1,7 +1,3 @@
-<style>
-  .repository-meta { display: none; }
-</style>
-
 # YiChen Zhao
 
 <img src="https://raw.githubusercontent.com/itmorn/itmorn.github.io/main/profile.jpg" alt="Your Image" width="15%" />
