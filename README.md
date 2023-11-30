@@ -19,6 +19,7 @@ Feel free to reach out to me via email at [24463047@qq.com](mailto:24463047@qq.c
 
 ### Frontiers of AI
 - [SAM](https://zhuanlan.zhihu.com/p/667801207) - Segment Anything. promptable segment. Meta AI 23.04.
+- [DDPM](https://zhuanlan.zhihu.com/p/669758337) - Denoising Diffusion Probabilistic Models. AIGC. Berkeley 20.06.
   
 
 
